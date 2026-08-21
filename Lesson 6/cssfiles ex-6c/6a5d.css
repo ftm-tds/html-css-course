@@ -1,0 +1,17 @@
+p {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .shop {
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 14px;
+  }
+  .see {
+    margin-bottom: 14px;
+  }
+  .learn {
+    color: blue;
+  }
